@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou a Mairis!
 
 ✨ Estou animada para compartilhar minha paixão por **Tecnologia da Informação**!  
-💻 Foco em **resolver problemas, automatizar processos** e aprender sempre algo novo.  
+💻 Amo em **resolver problemas, automatizar processos** e aprender sempre algo novo.  
+👩🏻‍💻 No momento, meu hiperfoco está em dominar em JavaScript.
 
 ---
 
