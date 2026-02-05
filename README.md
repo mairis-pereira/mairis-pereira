@@ -13,30 +13,24 @@ Sou uma **apaixonada por Tecnologia da Informação**, focada em **resolver prob
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## 🛠 Habilidades e Tecnologias
+<div>
+  <a href="https://instagram.com/maairispereira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	
+  <a href = "mailto:mairisfpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mairis-pereira-525955180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-- 💻 **Linguagens:** JavaScript, SQL, HTML, CSS  
-- ⚙️ **Ferramentas & Frameworks:** Git, GitHub, DBeaver  
-- 🔍 **Áreas de Interesse:** Automação, QA, Análise de Sistemas, Desenvolvimento de Scripts  
-- 🧩 **Soft Skills:** Resolução de problemas, investigação de falhas, colaboração em equipe  
-
----
-
+<div>
 ## 💡 Sobre mim
 
 - Sempre busco **entender o negócio por trás da tecnologia** 📊  
 - Amo **descobrir soluções criativas** para problemas complexos 🕵️‍♀️✨  
 - Apaixonada por aprender **coisas novas todos os dias** 📚  
-- Amo **trabalhar com pessoas**, mas também sei **resolver problemas sozinha** 💪  
-- Curiosa por natureza e **investigativa** 🔍  
+- Amo **trabalhar com pessoas**, mas também sei **resolver problemas** 💪  
+- Curiosa por natureza e **investigativa** 🔍
+</div>
 
----
-
-## 🚀 Projetos
-
-> 🔗 Confira nos meus repositórios!  
-
----
 
 ## 🌱 Aprendizado
 
