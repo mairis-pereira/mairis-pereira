@@ -38,6 +38,41 @@
   </a>
 </p>
 
+<div align="center" style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
+
+  <div style="
+    width: 220px;
+    height: 140px;
+    background: linear-gradient(135deg, #ff6fb1, #ff9ecf);
+    border-radius: 16px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 8px 20px rgba(255, 111, 177, 0.4);
+  ">
+    💻<br/>
+    JavaScript Lover<br/>
+    Automação & lógica
+  </div>
+
+  <div style="
+    width: 220px;
+    height: 140px;
+    background: linear-gradient(135deg, #ff6fb1, #ff9ecf);
+    border-radius: 16px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 8px 20px rgba(255, 111, 177, 0.4);
+  ">
+    ✨<br/>
+    Problem Solver<br/>
+    TI com paixão
+  </div>
+
+</div>
+
+
 ---
 
 💛 Obrigada por visitar meu perfil! Vamos codar algo incrível juntos! 🚀
