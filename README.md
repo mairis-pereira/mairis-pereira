@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou a Mairis!
 
-✨ Estou animada para compartilhar minha paixão por **Tecnologia da Informação**!  
-💻 Amo em **resolver problemas, automatizar processos** e aprender sempre algo novo.  
-👩🏻‍💻 No momento, meu hiperfoco está em JavaScript.
+✨ Sou Analista de Sistemas e adoro resolver problemas — principalmente aqueles que envolvem sistemas, processos e melhorias técnicas.
+
+💻 Atuo com automação e busco constantemente soluções inteligentes para os desafios do dia a dia.
+
+👩🏻‍💻 No momento, meu foco está em JavaScript, aprofundando meus conhecimentos e evoluindo continuamente.
 
 ---
 
